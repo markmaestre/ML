@@ -8,3 +8,4 @@ numpy
 opencv-python-headless
 uvicorn[standard]==0.24.0
 gunicorn
+fastapi==0.111.1
